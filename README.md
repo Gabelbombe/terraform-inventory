@@ -27,5 +27,5 @@ Set the working directory for the `terraform` command when the scripts shells ou
 
 Licensed for use under the [MIT License](./LICENSE).
 
-[1]: https://github.com/nbering/terraform-provider-ansible/
+[1]: https://github.com/ehime/terraform-provider-ansible/
 [2]: http://docs.ansible.com/ansible/latest/intro_dynamic_inventory.html
